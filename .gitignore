@@ -1,0 +1,10 @@
+# Ignore sensitive factory dumps (contains unique device MAC addresses, encryption keys, and RF calibration)
+backups/*.bin
+*.bin
+*.tar.gz
+*.pcap
+
+# Temporary files
+.DS_Store
+*.tmp
+*.log
