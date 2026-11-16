@@ -7,7 +7,7 @@
 
 > **Complete Step-by-Step Guide** to unlocking the **Jio AirFiber Indoor Unit (Sercomm JIDU6401 / IDU-6401)**, flashing permanent Official OpenWrt, configuring **Dual-Zone Hardware VPN Routing (Isolated LAN Port 4 + Dedicated VPN Wi-Fi with Kill-Switch)**, installing **AdGuard Home**, and enabling futuristic **RGB LED effects**.
 >
-> Developed & Tested by **Boss DC VOLTAGE** ([GitHub](https://github.com/dc-voltage)) in collaboration with the Jio/Airtel Unlock Community.
+> Developed, Researched & Tested solely by **DC VOLTAGE** ([GitHub](https://github.com/dc-voltage)).
 
 ---
 
@@ -261,9 +261,8 @@ Configure the front-panel status LED using `./scripts/setup_led_effects.sh`:
 
 ---
 
-## 🤝 Credits & Community
-* **Boss DC VOLTAGE**: Lead Reverse Engineer & Guide Author ([GitHub](https://github.com/dc-voltage))
-* **JFC-Group**: Jio/Airtel Research & Method Repository ([GitHub](https://github.com/JFC-Group))
+## 🤝 Author & Credits
+* **DC VOLTAGE**: Lead Reverse Engineer, Hardware Researcher & Guide Author ([GitHub](https://github.com/dc-voltage))
 * **OpenWrt Project**: For the incredible open-source embedded Linux ecosystem.
 
 ---
